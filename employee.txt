@@ -1,0 +1,15 @@
+EmpID EmpName Department Salary Years of experience
+101	santosh		    CSE	35000   1
+102	mahendra		CSE	34200   2
+103	prateek	        MNP	36000   3
+104	kiruthika		CSE	35550   4
+105	mohanapriya 	CSE	38000   5
+106	Joyashree		MAT	39000   6
+107	Snigdha	        MAT	34000   5
+108	Mercy	        CSE	35000   4
+109	Murali	        CE	35000   3
+110	Pavan	        Mech 34000  2
+111	Vijay	        EC	34700   1   
+112	pradeep	        BED	65000   4
+113	Aruna	        BED	65000   3
+114	Ramya	        MB	43000   2
